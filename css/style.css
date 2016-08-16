@@ -20,10 +20,10 @@ h1 {
   text-shadow: 1px 1px gray;
 }
 
-p {
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 30px;
-  color: white;
+h2 {
+  font-family: 'Satisfy', cursive;
+  font-size: 55px;
+  margin-bottom: 300px;
 }
 
 .navbar {
@@ -40,6 +40,13 @@ p {
   width:100%;
   bottom: 17rem;
   position: absolute;
+}
+
+.caption p {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 30px;
+  color: white;
+  bottom: 3rem;
 }
 
 .tps-wrapper {
