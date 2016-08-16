@@ -47,18 +47,24 @@ img {
     width : 100%;
     background: transparent;
     opacity:.4;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-family: 'Josefin Sans';
 }
+
 .image {
     position: relative;
-    width:200px;
-    height:200px;
+    /*width:200px;*/
+    height:300px;
     overflow:hidden;
 }
+
 .image:hover .overlay {
     bottom: 0;
     -webkit-transition: all 1s, -webkit-transform 1s;
     transition: all 1s, transform 1s;
-    width:50%;
+    /*width:50%;*/
     height:50%;
     opacity:1;
 }
