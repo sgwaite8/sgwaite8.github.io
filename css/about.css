@@ -1,5 +1,5 @@
 .container {
-  margin-top: 65px;
+  margin-top: 75px;
 }
 
 h1 {
@@ -13,9 +13,15 @@ img {
   width: 100%;
 }
 
-.topright {
+.topleft {
   width: 30%;
   float: left;
   margin: 0px 15px 15px 0px;
 
+}
+
+.bottomright {
+  width: 40%;
+  float: right;
+  margin: 10px 0px 10px 0px;
 }
