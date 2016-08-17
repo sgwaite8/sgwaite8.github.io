@@ -26,12 +26,6 @@ h2 {
   margin-bottom: 350px;
 }
 
-.navbar {
-  background-color: white;
-  border-color: transparent;
-  /*margin-right: 160px;*/
-}
-
 .navbar-default .navbar-nav > .active > a {
   background-color: rgba(255,255,255, 0.3);
 }
