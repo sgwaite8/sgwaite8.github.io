@@ -1,6 +1,6 @@
 $(function(){
   $("#slides").slidesjs({
     width: 600,
-    height: 528
+    height: 328
   });
 });

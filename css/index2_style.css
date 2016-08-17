@@ -2,10 +2,37 @@ body {
   /*background-color: black;*/
 }
 
+.container {
+  margin-top: 75px;
+}
+
 #slides {
   display:none;
 }
 
-ul {
+.slidesjs-pagination {
   display: none;
+}
+
+.slidesjs-navigation {
+  margin-left: 343px;
+  font-family: 'Josefin Sans';
+  font-size: 20px;
+  text-decoration: none;
+  color: gray;
+}
+
+.slidesjs-navigation:hover {
+  text-decoration: none;
+}
+
+.slidesjs-container {
+  border: 10px solid black;
+  /*overflow: hidden;*/
+}
+
+h3 {
+  font-family: 'Josefin Sans';
+  font-size: 50px;
+  text-align: center;
 }
