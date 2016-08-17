@@ -28,6 +28,7 @@ body {
 
 .slidesjs-container {
   border: 10px solid black;
+  margin-bottom: 10px;
   /*overflow: hidden;*/
 }
 
@@ -35,4 +36,9 @@ h3 {
   font-family: 'Josefin Sans';
   font-size: 50px;
   text-align: center;
+}
+
+footer {
+  margin-top: 10px;
+  margin-left: 5px;
 }

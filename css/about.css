@@ -4,13 +4,34 @@
 
 h1 {
   margin-top: 0;
-  font-family: 'Josefin Sans';
-  font-weight: bold;
   font-size: 55px;
 }
 
+h1, h3 {
+  font-family: 'Josefin Sans' sans-serif;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+p {
+  font-family: 'Josefin Sans';
+  font-size: 15px;
+}
+
 img {
-  width: 100%;
+  width: 90%;
+}
+
+form {
+  font-family: 'Josefin sans';
+}
+
+footer {
+  margin-top: 10px;
+  margin-left: 5px;
 }
 
 .topleft {
@@ -23,5 +44,5 @@ img {
 .bottomright {
   width: 40%;
   float: right;
-  margin: 10px 0px 10px 0px;
+  margin: 15px 15px 15px 0px;
 }

@@ -16,6 +16,11 @@ img {
   margin-top: 25px;
 }
 
+footer {
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
 .container {
   margin-top: 50px;
   /*text-align: center;*/
