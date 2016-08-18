@@ -34,6 +34,14 @@ footer {
   margin-left: 5px;
 }
 
+.navbar-nav {
+  font-family: 'lato', sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'Satisfy', cursive;
+}
+
 .topleft {
   width: 30%;
   float: left;

@@ -26,8 +26,12 @@ footer {
   /*text-align: center;*/
 }
 
-.navbar-default {
-  margin-bottom: 15px;
+.navbar-nav {
+  font-family: 'lato', sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'Satisfy', cursive;
 }
 
 .image img{
@@ -51,10 +55,11 @@ footer {
     height : 100%;
     width : 100%;
     background: transparent;
-    opacity:.4;
+    opacity:.3;
     text-align: center;
     color: white;
-    font-size: 25px;
+    text-shadow: 1px 1px gray;
+    font-size: 30px;
     font-family: 'Josefin Sans';
 }
 
@@ -79,3 +84,5 @@ footer {
     height:50%;
     opacity:1;
 }
+
+

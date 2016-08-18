@@ -26,8 +26,23 @@ h2 {
   margin-bottom: 350px;
 }
 
+footer {
+  text-align: left;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
 .navbar-default .navbar-nav > .active > a {
   background-color: rgba(255,255,255, 0.3);
+}
+
+.navbar-nav {
+  font-family: 'lato', sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'Satisfy', cursive;
 }
 
 .page1 {

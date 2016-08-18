@@ -1,3 +1,45 @@
+footer {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+
+h2 {
+  font-size: 55px;
+}
+
+h3 {
+  font-size: 50px;
+}
+
+h4 {
+  font-size: 40px;
+}
+
+h5 {
+  font-size: 30px;
+}
+
+h6 {
+  font-size: 25px;
+}
+
+h2, h3, h4, h5 h6 {
+  font-family: 'Josefin Sans';
+  font-weight: bold;
+}
+
+p, li {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 15px;
+}
+
+.typography {
+  text-align: center;
+  font-family: 'Josefin Sans';
+  font-size: 55px;
+}
+
 .container {
   margin-top: 75px;
 }
@@ -15,29 +57,11 @@
   font-size: 55px;
 }
 
-h2 {
+.navbar-nav {
+  font-family: 'lato', sans-serif;
+}
+
+.navbar-brand {
   font-family: 'Satisfy', cursive;
-  font-size: 55px;
 }
 
-h3 {
-  font-size: 50px;
-}
-
-h4 {
-  font-size: 40px;
-}
-
-h5 {
-  font-size: 30px;
-}
-
-h3, h4, h5 {
-  font-family: 'Josefin Sans';
-  font-weight: bold;
-}
-
-p, li {
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 15px;
-}
