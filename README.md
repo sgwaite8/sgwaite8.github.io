@@ -18,12 +18,12 @@ I sketched out my ideas of what I would like the pages to look like in InDesign,
 ![Wireframes](images/wireframe3.png)
 ![Wireframes](images/wireframe4.png)
 
-Next, I did the following steps:
-1. Creating a local repository and pushed to GitHub 
-2. Getting libraries and adding those files first
-3. Creating each page
-3. Styling each page
-4. Deploying
+Next I: 
+* Created a local repository and linked to GitHub 
+* Gathered libraries and added those files first
+* Created each page and linked them together appropriately
+* Styled each page
+* Deployed the site using GitHub Pages
 
 
 ## User Stories
@@ -32,7 +32,7 @@ Next, I did the following steps:
 * User can view example “About us” page
 * User can view example “Contact” page
 * User can view example of “Portfolio” page
-* User can view various features/components such as typography, buttons, icons or backgrounds
+* User can view various features/components such as typography, buttons or icons
 
 
 ## Installation Instructions
