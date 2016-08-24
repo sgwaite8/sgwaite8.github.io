@@ -1,17 +1,31 @@
 body {
-  /*background-color: black;*/
+  background-color: black;
 }
 
 .container {
   margin-top: 75px;
 }
 
+.container-fluid {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
 .navbar-nav {
   font-family: 'lato', sans-serif;
+  /*background-color: black;*/
+}
+
+.navbar-collapse {
+  /*border-color: gray;*/
+}
+
+.active {
+  /*background: rgba(0, 0, 0, 0.5);*/
 }
 
 .navbar-brand {
   font-family: 'Satisfy', cursive;
+  color: gray;
 }
 
 #slides {
@@ -35,7 +49,7 @@ body {
 }
 
 .slidesjs-container {
-  border: 10px solid black;
+  border: 10px solid white;
   margin-bottom: 10px;
   /*overflow: hidden;*/
 }
@@ -44,6 +58,7 @@ h3 {
   font-family: 'Josefin Sans';
   font-size: 50px;
   text-align: center;
+  color: white;
 }
 
 footer {
