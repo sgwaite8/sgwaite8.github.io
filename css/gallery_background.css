@@ -7,16 +7,17 @@ body {
 }
 
 .container-fluid {
-  background-color: rgba(0, 0, 0, 0.5);
+  /*background-color: rgba(0, 0, 0, 0.5);*/
+  background-color: black;
 }
 
 .navbar-nav {
   font-family: 'lato', sans-serif;
-  /*background-color: black;*/
+  background-color: black;
 }
 
 .navbar-collapse {
-  /*border-color: gray;*/
+  border-color: black;
 }
 
 .active {
